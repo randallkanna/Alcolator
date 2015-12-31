@@ -62,6 +62,7 @@
                             <constraint firstItem="Wjm-1b-sDF" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="meo-gW-WBc"/>
                             <constraint firstItem="CDF-7F-kkw" firstAttribute="top" secondItem="0gi-7i-PXC" secondAttribute="bottom" constant="38" id="oW4-8v-DqV"/>
                             <constraint firstItem="uXh-Bf-FvH" firstAttribute="width" secondItem="Wjm-1b-sDF" secondAttribute="width" id="ot5-0N-zNo"/>
+                            <constraint firstItem="CDF-7F-kkw" firstAttribute="width" secondItem="0gi-7i-PXC" secondAttribute="width" id="ov8-52-lP1"/>
                             <constraint firstItem="Wjm-1b-sDF" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="xh9-Uf-LN6"/>
                         </constraints>
                         <connections>
@@ -178,6 +179,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <gestureRecognizers/>
                         <constraints>
+                            <constraint firstItem="A90-DS-wx0" firstAttribute="width" secondItem="APf-JC-c8c" secondAttribute="width" id="076-y5-V5F"/>
                             <constraint firstItem="ice-Yc-g2e" firstAttribute="top" secondItem="97d-SJ-9WQ" secondAttribute="bottom" constant="8" id="Dst-36-KHM"/>
                             <constraint firstItem="A90-DS-wx0" firstAttribute="leading" secondItem="En6-5H-0fo" secondAttribute="leadingMargin" constant="15" id="HoP-7j-wmL"/>
                             <constraint firstItem="97d-SJ-9WQ" firstAttribute="trailing" secondItem="En6-5H-0fo" secondAttribute="trailingMargin" id="QDZ-GA-90g"/>
